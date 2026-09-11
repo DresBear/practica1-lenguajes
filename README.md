@@ -17,3 +17,4 @@
 - `Prolog/decodificador.pl`: Solución correspondiente a la Parte B (Paradigma Lógico).
 
 ## Video de Presentación
+- `video`: https://youtu.be/zYoQ8xd6haM
